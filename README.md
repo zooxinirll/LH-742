@@ -10,7 +10,7 @@ Install Python if you haven't already: pkg install python3
 
 Install the git package: pkg install git
 
-Clone the repository: git clone https://github.com/10c4lh0st07/LH-742/
+Clone the repository: git clone https://github.com/zooxinirll/LH-742
 
 Change into the repository directory: cd LH-742
 
@@ -22,7 +22,7 @@ Install Python if you haven't already: sudo apt-get install python3 (for Ubuntu-
 
 Install the git package: sudo apt-get install git (for Ubuntu-based systems) or sudo yum install git (for RPM-based systems)
 
-Clone the repository: git clone https://github.com/10c4lh0st07/LH-742/
+Clone the repository: git clone https://github.com/zooxinirll/LH-742
 
 Change into the repository directory: cd LH-742
 
